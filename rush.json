@@ -412,6 +412,10 @@
     {
       "packageName": "@kentaromiura/equation-designer",
       "projectFolder": "equation-designer"
+    },
+    {
+      "packageName": "@kentaromiura/ma-utils",
+      "projectFolder": "utils"
     }
     // {
     //   /**

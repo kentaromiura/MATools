@@ -1,8 +1,14 @@
 {
-    "name": "@kentaromiura/utils",
+    "name": "@kentaromiura/ma-utils",
     "version": "1.0.0",
     "main": "index.js",
     "author": "Cristian Carlesso <@kentaromiura>",
-    "license": "MIT"
+    "license": "MIT",
+    "devDependencies": {
+      "@kentaromiura/transition": "1.0.0"
+    },
+    "scripts": {
+      "build": "echo nothing to do..."
+    }
   }
   

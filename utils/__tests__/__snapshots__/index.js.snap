@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should work 1`] = `0`;
+
+exports[`should work 2`] = `0.9975439490436884`;
+
+exports[`should work 3`] = `0.003980312515050173`;
+
+exports[`should work 4`] = `0.7499999552965164`;
+
+exports[`should work 5`] = `0`;

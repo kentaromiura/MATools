@@ -42,7 +42,7 @@ class Transition {
 
   step(time, isSingleStep = false) {
     if (this.elapsed === null) this.elapsed = 0;
-    this.elapsed += time - (this.time || time);
+    this.elapsed += time - (this.time === undefined ? time: this.time);
     
     var factor = this.elapsed / this.duration;
     if (factor > 1) factor = 1;
