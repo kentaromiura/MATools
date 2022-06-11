@@ -1,0 +1,27 @@
+{
+    "name": "@kentaromiura/matrix3d",
+    "version": "1.0.0",
+    "description": "Decompose, interpolate, compose 3d matrices.",
+    "main": "lib/Matrix3d.js",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/kamicane/matrix3d"
+    },
+    "keywords": [
+      "matrix3d",
+      "decompose",
+      "interpolate",
+      "compose"
+    ],
+    "author": "Valerio Proietti <kamicane@gmail.com>",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/kamicane/matrix3d/issues"
+    },
+    "homepage": "https://github.com/kamicane/matrix3d",
+    "dependencies": {
+    },
+    "scripts": {
+      "build": "echo nothing to do..."
+    }
+  }

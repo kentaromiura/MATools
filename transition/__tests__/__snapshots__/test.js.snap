@@ -1,0 +1,203 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`it is correct 1`] = `0`;
+
+exports[`it is correct 2`] = `0.000004000000000000001`;
+
+exports[`it is correct 3`] = `0.000032000000000000005`;
+
+exports[`it is correct 4`] = `0.00010799999999999998`;
+
+exports[`it is correct 5`] = `0.00025600000000000004`;
+
+exports[`it is correct 6`] = `0.0005000000000000001`;
+
+exports[`it is correct 7`] = `0.0008639999999999999`;
+
+exports[`it is correct 8`] = `0.0013720000000000004`;
+
+exports[`it is correct 9`] = `0.0020480000000000003`;
+
+exports[`it is correct 10`] = `0.0029159999999999998`;
+
+exports[`it is correct 11`] = `0.004000000000000001`;
+
+exports[`it is correct 12`] = `0.005324000000000001`;
+
+exports[`it is correct 13`] = `0.006911999999999999`;
+
+exports[`it is correct 14`] = `0.008788`;
+
+exports[`it is correct 15`] = `0.010976000000000003`;
+
+exports[`it is correct 16`] = `0.013499999999999998`;
+
+exports[`it is correct 17`] = `0.016384000000000003`;
+
+exports[`it is correct 18`] = `0.019652000000000003`;
+
+exports[`it is correct 19`] = `0.023327999999999998`;
+
+exports[`it is correct 20`] = `0.027436000000000002`;
+
+exports[`it is correct 21`] = `0.03200000000000001`;
+
+exports[`it is correct 22`] = `0.037043999999999994`;
+
+exports[`it is correct 23`] = `0.042592000000000005`;
+
+exports[`it is correct 24`] = `0.048668`;
+
+exports[`it is correct 25`] = `0.05529599999999999`;
+
+exports[`it is correct 26`] = `0.0625`;
+
+exports[`it is correct 27`] = `0.070304`;
+
+exports[`it is correct 28`] = `0.07873200000000002`;
+
+exports[`it is correct 29`] = `0.08780800000000002`;
+
+exports[`it is correct 30`] = `0.09755599999999998`;
+
+exports[`it is correct 31`] = `0.10799999999999998`;
+
+exports[`it is correct 32`] = `0.11916399999999999`;
+
+exports[`it is correct 33`] = `0.13107200000000002`;
+
+exports[`it is correct 34`] = `0.14374800000000001`;
+
+exports[`it is correct 35`] = `0.15721600000000002`;
+
+exports[`it is correct 36`] = `0.17149999999999996`;
+
+exports[`it is correct 37`] = `0.18662399999999998`;
+
+exports[`it is correct 38`] = `0.202612`;
+
+exports[`it is correct 39`] = `0.21948800000000002`;
+
+exports[`it is correct 40`] = `0.23727600000000001`;
+
+exports[`it is correct 41`] = `0.25600000000000006`;
+
+exports[`it is correct 42`] = `0.27568399999999993`;
+
+exports[`it is correct 43`] = `0.29635199999999995`;
+
+exports[`it is correct 44`] = `0.318028`;
+
+exports[`it is correct 45`] = `0.34073600000000004`;
+
+exports[`it is correct 46`] = `0.36450000000000005`;
+
+exports[`it is correct 47`] = `0.389344`;
+
+exports[`it is correct 48`] = `0.41529199999999994`;
+
+exports[`it is correct 49`] = `0.44236799999999993`;
+
+exports[`it is correct 50`] = `0.47059599999999996`;
+
+exports[`it is correct 51`] = `0.5`;
+
+exports[`it is correct 52`] = `0.529404`;
+
+exports[`it is correct 53`] = `0.5576320000000001`;
+
+exports[`it is correct 54`] = `0.584708`;
+
+exports[`it is correct 55`] = `0.6106560000000001`;
+
+exports[`it is correct 56`] = `0.6355000000000001`;
+
+exports[`it is correct 57`] = `0.6592640000000001`;
+
+exports[`it is correct 58`] = `0.6819719999999999`;
+
+exports[`it is correct 59`] = `0.7036479999999999`;
+
+exports[`it is correct 60`] = `0.724316`;
+
+exports[`it is correct 61`] = `0.744`;
+
+exports[`it is correct 62`] = `0.762724`;
+
+exports[`it is correct 63`] = `0.780512`;
+
+exports[`it is correct 64`] = `0.797388`;
+
+exports[`it is correct 65`] = `0.813376`;
+
+exports[`it is correct 66`] = `0.8285`;
+
+exports[`it is correct 67`] = `0.842784`;
+
+exports[`it is correct 68`] = `0.856252`;
+
+exports[`it is correct 69`] = `0.868928`;
+
+exports[`it is correct 70`] = `0.880836`;
+
+exports[`it is correct 71`] = `0.8919999999999999`;
+
+exports[`it is correct 72`] = `0.902444`;
+
+exports[`it is correct 73`] = `0.912192`;
+
+exports[`it is correct 74`] = `0.921268`;
+
+exports[`it is correct 75`] = `0.929696`;
+
+exports[`it is correct 76`] = `0.9375`;
+
+exports[`it is correct 77`] = `0.944704`;
+
+exports[`it is correct 78`] = `0.9513320000000001`;
+
+exports[`it is correct 79`] = `0.957408`;
+
+exports[`it is correct 80`] = `0.962956`;
+
+exports[`it is correct 81`] = `0.968`;
+
+exports[`it is correct 82`] = `0.972564`;
+
+exports[`it is correct 83`] = `0.976672`;
+
+exports[`it is correct 84`] = `0.980348`;
+
+exports[`it is correct 85`] = `0.983616`;
+
+exports[`it is correct 86`] = `0.9865`;
+
+exports[`it is correct 87`] = `0.989024`;
+
+exports[`it is correct 88`] = `0.991212`;
+
+exports[`it is correct 89`] = `0.993088`;
+
+exports[`it is correct 90`] = `0.994676`;
+
+exports[`it is correct 91`] = `0.996`;
+
+exports[`it is correct 92`] = `0.997084`;
+
+exports[`it is correct 93`] = `0.997952`;
+
+exports[`it is correct 94`] = `0.998628`;
+
+exports[`it is correct 95`] = `0.999136`;
+
+exports[`it is correct 96`] = `0.9994999999999999`;
+
+exports[`it is correct 97`] = `0.999744`;
+
+exports[`it is correct 98`] = `0.999892`;
+
+exports[`it is correct 99`] = `0.999968`;
+
+exports[`it is correct 100`] = `0.999996`;
+
+exports[`it is correct 101`] = `1`;

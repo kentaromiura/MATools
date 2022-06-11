@@ -1,0 +1,21 @@
+{
+    "name": "@kentaromiura/maybe-later",
+    "version": "1.3.0",
+    "main": "index.js",
+    "description": "defers function execution at a later time",
+    "keywords": [
+      "defer",
+      "timeout",
+      "interval",
+      "requestAnimationFrame",
+      "setImmediate"
+    ],
+    "homepage": "https://github.com/kamicane/maybe-later#readme",
+    "bugs": "https://github.com/kamicane/maybe-later/issues",
+    "repository": "github:kamicane/maybe-later",
+    "author": "Valerio Proietti <kamicane@gmail.com>",
+    "license": "MIT",
+    "scripts": {
+        "build": "echo nothing to do..."
+    }
+  }

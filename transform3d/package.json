@@ -1,0 +1,22 @@
+{
+    "name": "@kentaromiura/transform3d",
+    "version": "1.0.0",
+    "description": "3d transform operations and interpolation for matrix3d",
+    "main": "./index.js",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/kamicane/transform3d.git"
+    },
+    "author": "Valerio Proietti <kamicane@gmail.com>",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/kamicane/transform3d/issues"
+    },
+    "homepage": "https://github.com/kamicane/transform3d",
+    "dependencies": {
+      "@kentaromiura/matrix3d": "1.0.0"
+    },
+    "scripts": {
+      "build": "echo nothing to do..."
+    }
+  }

@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            background-color: #222;
+            font-family: Arial;
+        }
+
+        #controls {
+            position: absolute;
+            top: 120px;
+            left: 20px;
+            width: 380px;
+        }
+
+        button {
+            display: inline-block;
+            margin: 0 5px 5px 0;
+            width: 180px;
+            height: 30px;
+        }
+
+        #curves {
+            top: 0;
+            left: 0;
+            position: absolute;
+        }
+
+        #curve {
+
+            position: absolute;
+            top: 20px;
+            left: 20px;
+            font-size: 15px;
+        }
+
+        #sprite {
+            position: absolute;
+            top: 100px;
+            left: 500px;
+            background: red;
+            height: 40px;
+            width: 40px;
+            border-radius: 20px;
+        }
+    </style>
+    <script src="build/main.js"></script>
+</head>
+
+<body>
+    <canvas id="curves"></canvas>
+    <div id="sprite"></div>
+    <div id="curve"></div>
+    <div id="controls">
+        <button id="fade-in">Animate Opacity (0 - 1)</button>
+        <button id="fade-out">Animate Opacity (1 - 0)</button>
+        <button id="fall">Animate Top (100 - 800)</button>
+        <button id="rise">Animate Top (800 - 100)</button>
+        <button id="add">Add Curve</button>
+    </div>
+</body>
+
+</html>

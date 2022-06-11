@@ -1,0 +1,12 @@
+{
+  "name": "matools",
+  "version": "1.0.0",
+  "description": "My animation tools",
+  "main": "index.js",
+  "author": "Carlesso Cristian <@kentaromiura> <kentaromiura@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@microsoft/rush": "^5.47.0",
+    "jest": "^27.0.4"
+  }
+}
